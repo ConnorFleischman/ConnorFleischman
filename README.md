@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm **Connor Fleischman**, a passionate Software E
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
---->
+
 
 ---
 
@@ -52,3 +52,4 @@ Welcome to my GitHub profile! I'm **Connor Fleischman**, a passionate Software E
 ![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ConnorFleischman&show_icons=true&theme=radical)
 
 ---
+--->
