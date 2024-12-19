@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm **Connor Fleischman**, a passionate Software E
 ---
 
 ## Most Used Languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorFleischman&layout=compact&theme=radical)
 <!---
 ---
 
