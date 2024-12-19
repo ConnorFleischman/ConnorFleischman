@@ -29,9 +29,6 @@ Welcome to my GitHub profile! I'm **Connor Fleischman**, a passionate Software E
 - 💼 [LinkedIn](https://linkedin.com/in/ConnorFleischman)
 - 🌐 [Personal Portfolio](https://yourwebsite.com)
 --->
-
-## 😄 Pronouns
-- He/Him
   
 <!--- 
 ## ⚡ Fun fact
