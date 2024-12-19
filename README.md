@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm **Connor Fleischman**, a passionate Software E
 - My journey as a developer!
 --->
 ## 📫 How to reach me
-- 📧 Email: Connor.m.fleischman@gmail.com
+- 📧 Email: Connor.Fleischman1@marist.edu
 - 💼 LinkedIn: https://www.linkedin.com/in/connorfleischman/
 - 🤝 Handshake: https://marist.joinhandshake.com/profiles/48466745
 <!---
