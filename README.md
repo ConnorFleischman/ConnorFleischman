@@ -42,7 +42,13 @@ Welcome to my GitHub profile! I'm **Connor Fleischman**, a passionate Software E
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
+--->
 
+---
+
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<!---
 ---
 
 ## 📊 GitHub Stats
