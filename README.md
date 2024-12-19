@@ -23,14 +23,14 @@ Welcome to my GitHub profile! I'm **Connor Fleischman**, a passionate Software E
 - Software development best practices.
 - Python, React, or any of my pinned projects.
 - My journey as a developer!
-
+--->
 ## 📫 How to reach me
 - 📧 Email: Connor.m.fleischman@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/ConnorFleischman)
-- 🌐 [Personal Portfolio](https://yourwebsite.com)
---->
-  
-<!--- 
+- 💼 LinkedIn: https://www.linkedin.com/in/connor-fleischman-5901a1342/
+- 🤝 Handshake: https://marist.joinhandshake.com/profiles/48466745
+<!---
+🌐
+
 ## ⚡ Fun fact
 - I'm a big fan of [your hobby or interest] and love [specific quirky thing you enjoy].
 
