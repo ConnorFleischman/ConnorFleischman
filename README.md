@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Connor Fleischman**, a passionate Software Engineer at Marist University dedicated to learning and building through innovation.
+Welcome to my GitHub profile! I'm **Connor Fleischman**, a student at Marist University persuing my B.S./M.S. of Computer Science in Software Development with a concentration in Artificial Intelegence as well as a Minor in Mathematics.
 
 <!--- 
 ## 🔭 What I’m working on
