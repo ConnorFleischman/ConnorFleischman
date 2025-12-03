@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm **Connor Fleischman**, a student at Marist Uni
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 --->
-
+<!---
 ---
 
 ## Most Used Languages
