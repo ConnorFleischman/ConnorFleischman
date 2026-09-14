@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm **Connor Fleischman**, a student at Marist University persuing my B.S./M.S. of Computer Science in Software Development with a concentration in Artificial Intelegence as well as a Minor in Mathematics.
+Welcome to my GitHub profile! I'm **Connor Fleischman**, a graduate student at Marist University pursuing a M.S. of Computer Science in Software Development with a concentration in Artificial Intelligence, I also possess a Minor in Mathematics.
 
 <!--- 
 ## 🔭 What I’m working on
